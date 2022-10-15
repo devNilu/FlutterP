@@ -13,7 +13,8 @@ class HomePage extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: Text("Catlog App"),
+        title: Text("Catlog App",style: TextStyle(color: Colors.black),
+        ),
       ),
       body: Center(
         child: Container(
