@@ -16,5 +16,4 @@ final products = [Item(
   color: "#33505a",
   image:
   "https://www.google.com/url?sa=i&url=https%3A%2F%2Frenew.olx.in%2Fproducts%2Fapple-iphone-12-pro&psig=AOvVaw28v8vaZfc1fnJxKcMWnkPa&ust=1665897708769000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOjAoN2-4foCFQAAAAAdAAAAABAY"
-),
-];
+)];
